@@ -1,3 +1,5 @@
-node_module
+node_modules/
+dist/
 .env
-client_secret_2_731027594585-qnpsud2bj3bu2bp25acnk84atjrj67lk.apps.googleusercontent.com.json
+*.env.local
+client_secret_*.json
